@@ -1,0 +1,6 @@
+.tfvars
+terraform*
+.terraform*
+cloud-init-worker.yaml
+cloud-init.yaml
+change_user_data
